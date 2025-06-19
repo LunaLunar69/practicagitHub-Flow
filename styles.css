@@ -1,0 +1,10 @@
+#proyectos { 
+background-color: #f9f9f9; 
+padding: 20px; 
+} 
+#proyectos ul { 
+list-style-type: none; 
+} 
+#proyectos a { 
+color: #0077cc; 
+} 
