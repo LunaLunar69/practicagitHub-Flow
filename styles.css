@@ -1,3 +1,14 @@
+#proyectos { 
+background-color: #f9f9f9; 
+padding: 20px; 
+} 
+#proyectos ul { 
+list-style-type: none; 
+} 
+#proyectos a { 
+color: #0077cc; 
+} 
+=======
 #contacto {
  padding: 20px;
  background-color: #eee;
@@ -6,7 +17,7 @@
  width: 100%;
  margin-bottom: 10px;
 }
-
+=======
 header { 
 text-align: center; 
 background-color: #f0f0f0; 
