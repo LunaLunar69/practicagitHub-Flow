@@ -1,0 +1,8 @@
+#contacto {
+ padding: 20px;
+ background-color: #eee;
+}
+#contacto input, #contacto textarea {
+ width: 100%;
+ margin-bottom: 10px;
+}
