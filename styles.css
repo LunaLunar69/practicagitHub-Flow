@@ -1,4 +1,34 @@
+
 #perfil { 
 padding: 20px; 
 background-color: #ffffff; 
+} 
+=======
+#proyectos { 
+background-color: #f9f9f9; 
+padding: 20px; 
+} 
+#proyectos ul { 
+list-style-type: none; 
+} 
+#proyectos a { 
+color: #0077cc; 
+} 
+=======
+#contacto {
+ padding: 20px;
+ background-color: #eee;
+}
+#contacto input, #contacto textarea {
+ width: 100%;
+ margin-bottom: 10px;
+}
+=======
+header { 
+text-align: center; 
+background-color: #f0f0f0; 
+padding: 20px; 
+} 
+header img { 
+border-radius: 50%; 
 } 
